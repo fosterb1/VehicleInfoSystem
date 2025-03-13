@@ -94,6 +94,7 @@ Fuel: Petrol
 ### 📧 Contact
 **Developer:** *FOSTER BOADI*  
 📩 Email: *fosterboadi152@gmail.com*  
-🔗 GitHub: https://github.com/fosterb1 
+🔗 GitHub: *https://github.com/fosterb1* 
+   LinkedIn:*https://www.linkedin.com/in/fosterboadi/*
 
 
