@@ -47,7 +47,7 @@ VehicleInfoSystem/
 
 1️⃣ **Clone the Repository**  
 
-git clone https://github.com/your-username/VehicleInfoSystem.git
+git clone https://github.com/fosterb1/VehicleInfoSystem.git
 cd VehicleInfoSystem
 
 
